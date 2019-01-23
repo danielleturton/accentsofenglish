@@ -6,6 +6,7 @@ output:
     toc_depth: 2
     toc_float: true
     theme: paper
+bibliography: sel3094.bib
 ---
 
 
@@ -14,21 +15,10 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Reading pack
-  
 The compulsory reading (as found on the schedule) should be done before class.  The recommended follow-up reading is non-compulsory and is to supplement your learning.  I recommend completing at least one follow-up reading per week.
 
 
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+---
+nocite: | 
+  @Docherty2005, @Evans2007, @Labov1994, @Sankoff2004 @Turton2014, @Baranowski2017, @Piercy2012, @Evans2007, @Wells1982, @RBO2007e
+---

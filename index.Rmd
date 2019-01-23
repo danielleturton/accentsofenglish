@@ -14,6 +14,13 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Welcome to the course website for SEL3094 Accents of English and SEL8513 Variation and the Grammar.
+
+## Overview
+
+This module explores the phonological, phonetic and sociolinguistic features of accents of English.  We'll be looking at the particular sounds which differentiate varieties of English, and how to identify linguistic and social factors which may play a role in shaping this variation.  Each week, we'll focus on a different aspect of English accents, including phonological processes and regional differences.  We'll be using quantitative methods to look at variation in particular accents, as well as more advanced phonetic tools available in linguistics.
+
+To succeed in this course you must already possess certain background knowledge and skills. The formal pre-requisite for this module is SEL1027, and as such students are expected to be familiar with the staples of phonology and phonetics.  You must be able to produce and recognise the IPA symbols for the most common sounds found in the languages of the world in order to embark on this course.
 
 ## Contact
 Email: danielle.turton@newcastle.ac.uk
@@ -21,12 +28,6 @@ Please allow at least 2 working days for a response.  Note that Friday is my ded
 
 Office hours: TBC (Percy 3.11A)
 Phone: 0191 208-8092
-
-## Module overview
-
-This module explores the phonological, phonetic and sociolinguistic features of accents of English.  We'll be looking at the particular sounds which differentiate varieties of English, and how to identify linguistic and social factors which may play a role in shaping this variation.  Each week, we'll focus on a different aspect of English accents, including phonological processes and regional differences.  We'll be using quantitative methods to look at variation in particular accents, as well as more advanced phonetic tools available in linguistics.
-
-To succeed in this course you must already possess certain background knowledge and skills. The formal pre-requisite for this module is SEL1027, and as such students are expected to be familiar with the staples of phonology and phonetics.  You must be able to produce and recognise the IPA symbols for the most common sounds found in the languages of the world in order to embark on this course.
 
 
 ## Attendance
