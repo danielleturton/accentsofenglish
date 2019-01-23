@@ -1,0 +1,15 @@
+name: "accents-of-english"
+output_dir: "."
+navbar:
+  title: "Accents of English"
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Assessment"
+      href: assessment.html
+    - text: "Labs"
+      href: labs.html
+    - text: "Reading"
+      href: reading.html

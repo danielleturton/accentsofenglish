@@ -1,0 +1,38 @@
+---
+title: "Labs"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: paper
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Lab class: Check timetable for your session
+
+N.B. For Praat classes you will need your headphones!  Check table for when to bring headphones to class!  Note that some of the university computers have problems playing Praat through iphone headphones, so if you have others then you might want to bring them.
+
+| Week |             Lab            |   Readings  |
+|:----:|:------------------------------:|:-------------------------:|
+|   2  |          Introduction to Excel          |            None           |
+|   3  |          Introduction to Praat             |         @fa-headphones |
+|   4  |          ELAN, DARLA and the Praat Handcoder           | ? |
+|   5  |          Vowels and NORM           |       hi  |
+|   7  |          Praat 2: consonants         | hi |
+|   9  |     Chi-square, correlation, cross-tab, stats      |       hello      |
+
+
+```{r cars}
+summary(cars)
+```
+
+## R classes
+Recommended for postgrads
+
+

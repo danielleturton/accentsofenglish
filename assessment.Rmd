@@ -1,0 +1,28 @@
+---
+title: "Assessment"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: paper
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+This module is electronic submission only.  You do not need to submit a paper copy of your assessment. Instead, you will use the TurnItIn submission box on Blackboard.  TurnItIn opens a week prior to the hand-in date.
+
+## Mid-module 
+
+25% report
+
+
+## End of semester 
+
+75%  research project - details TBA
+15th May at 3pm
+Word limit 3,000
+You have the option to work in pairs for this assignment, in which case the word limit will be 4,500.
