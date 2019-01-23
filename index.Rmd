@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome to the course website for SEL3094 Accents of English and SEL8513 Variation and the Grammar.
 
+<img src="img/struttop10.png" style="width:100%; border:5px solid; margin-right: 20px" align="center">
+
 ## Overview
 
 This module explores the phonological, phonetic and sociolinguistic features of accents of English.  We'll be looking at the particular sounds which differentiate varieties of English, and how to identify linguistic and social factors which may play a role in shaping this variation.  Each week, we'll focus on a different aspect of English accents, including phonological processes and regional differences.  We'll be using quantitative methods to look at variation in particular accents, as well as more advanced phonetic tools available in linguistics.
