@@ -26,9 +26,11 @@ To succeed in this course you must already possess certain background knowledge 
 
 ## Contact
 Email: danielle.turton@newcastle.ac.uk
+
 Please allow at least 2 working days for a response.  Note that Friday is my dedicated research day and I am not on email.
 
-Office hours: TBC (Percy 3.11A)
+Office hours: Mon 3-4, Weds 11-1 (Percy 3.11A)
+
 Phone: 0191 208-8092
 
 
@@ -47,5 +49,11 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 Lecture slides and lab instructions will be available on the [Blackboard](https://blackboard.ncl.ac.uk/) site for this module.  
 
 Readings are available from the schedule tab (or from the protected module folder)for some readings, you will need to be logged into your Newcastle account to gain access).
+
+## Useful stuff
+
+* Printable [IPA chart](https://www.internationalphoneticassociation.org/sites/default/files/IPA_Kiel_2015.pdf)
+* [Wells's Lexical Sets](https://en.wikipedia.org/wiki/Lexical_set)
+
 
 
