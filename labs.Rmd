@@ -8,26 +8,27 @@ output:
     theme: paper
 ---
 
+<link href="https://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css" rel="stylesheet">
 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Lab class: Check timetable for your session
+Lab class: Check timetable for your session.
 
 Lab classes are two hours, schedule is subject to change
 
-N.B. For Praat classes you will need your headphones!  Check table for when to bring headphones to class!  Note that some of the university computers have problems playing Praat through iphone headphones, so if you have others then you might want to bring them.
+N.B. For Praat classes you will need your headphones `r icon::fa("headphones")`!  Check table for when to bring headphones to class!  Note that some of the university computers have problems playing Praat through iphone headphones, so if you have others then you might want to bring them.
 
-| Session |             Lab            |   Readings  |
+| Session |             Lab            |   Info  |
 |:----:|:------------------------------:|:-------------------------:|
-|   1  |          Excel 1: Intro, graphs and tables          |            None           |
-|   2  |          Praat 1: Intro, textgrids and vowels              |   <a href="https://scholar.google.co.uk/citations?user=jqgniHIAAAAJ&hl=en" target="_blank" class="icon fa-google"><span class="label">Google Scholar</span></a> |
-|   3  |          ELAN, DARLA and the Praat Handcoder           | ? |
-|   4  |          Vowels and NORM           |       hi  |
-|   5  |          Praat 2: consonants         | hi |
-|   6  |          Excel 2: Chi-square, correlation, cross-tab, stats      |       hello      |
+|   1  |          Excel 1: Intro, graphs and tables          |                       |
+|   2  |          Praat 1: Intro, textgrids and vowels              | `r icon::fa("headphones")`   |
+|   3  |          ELAN, DARLA and the Praat Handcoder           | `r icon::fa("headphones")` |
+|   4  |          Vowels and NORM           |         |
+|   5  |          Praat 2: consonants         | `r icon::fa("headphones")` |
+|   6  |          Excel 2: Chi-square, correlation, cross-tab, stats      |         |
 
 
 ```{r cars}
