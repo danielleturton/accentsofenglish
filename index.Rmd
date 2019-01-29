@@ -54,6 +54,7 @@ Readings are available from the schedule tab (or from the protected module folde
 
 * Printable [IPA chart](https://www.internationalphoneticassociation.org/sites/default/files/IPA_Kiel_2015.pdf)
 * [Wells's Lexical Sets](https://en.wikipedia.org/wiki/Lexical_set)
+* Creating Spectrograms in Praat:[simple intro](https://allthingslinguistic.com/post/170512700349/creating-spectrograms-in-praat-the-briefest)
 
 
 

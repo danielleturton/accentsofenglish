@@ -20,5 +20,5 @@ The compulsory reading (as found on the schedule) should be done before class.  
 
 ---
 nocite: | 
-  @Docherty2005, @Evans2007, @Labov1994, @Sankoff2004 @Turton2014, @Baranowski2017, @Piercy2012, @Evans2007, @Wells1982, @RBO2007e, @Baranowski2018
+  @*
 ---

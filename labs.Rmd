@@ -16,23 +16,29 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Lab class: Check timetable for your session
 
+Lab classes are two hours, schedule is subject to change
+
 N.B. For Praat classes you will need your headphones!  Check table for when to bring headphones to class!  Note that some of the university computers have problems playing Praat through iphone headphones, so if you have others then you might want to bring them.
 
-| Week |             Lab            |   Readings  |
+| Session |             Lab            |   Readings  |
 |:----:|:------------------------------:|:-------------------------:|
-|   2  |          Introduction to Excel          |            None           |
-|   3  |          Introduction to Praat             |         @fa-headphones |
-|   4  |          ELAN, DARLA and the Praat Handcoder           | ? |
-|   5  |          Vowels and NORM           |       hi  |
-|   7  |          Praat 2: consonants         | hi |
-|   9  |     Chi-square, correlation, cross-tab, stats      |       hello      |
+|   1  |          Excel 1: Intro, graphs and tables          |            None           |
+|   2  |          Praat 1: Intro, textgrids and vowels              |   <a href="https://scholar.google.co.uk/citations?user=jqgniHIAAAAJ&hl=en" target="_blank" class="icon fa-google"><span class="label">Google Scholar</span></a> |
+|   3  |          ELAN, DARLA and the Praat Handcoder           | ? |
+|   4  |          Vowels and NORM           |       hi  |
+|   5  |          Praat 2: consonants         | hi |
+|   6  |          Excel 2: Chi-square, correlation, cross-tab, stats      |       hello      |
 
 
 ```{r cars}
 summary(cars)
 ```
 
+## Reading for lab classes
+Chapter 8 of [Ladefoged and Johnson (2015)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA51104441400002411&context=L&vid=NEWUI&search_scope=NotPC&tab=default_tab&lang=en_US) is the recommended intro to acoustic phonetics and is available to online via the library.  For more in-depth reading try [Johnson (2012)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2162877050002411&context=L&vid=NEWUI&search_scope=NotPC&isFrbr=true&tab=default_tab&lang=en_US) and [Ladefoged (1996)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2158870380002411&context=L&vid=NEWUI&search_scope=NotPC&isFrbr=true&tab=default_tab&lang=en_US).  For a Sociophonetics slant try [Thomas (2011)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2162924950002411&context=L&vid=NEWUI&search_scope=NotPC&tab=default_tab&lang=en_US).
+
+
 ## R classes
-Recommended for postgrads
+Recommended for postgrads - module HSS8005 weeks 8 and 9, Tues and Thurs 2-4pm
 
 

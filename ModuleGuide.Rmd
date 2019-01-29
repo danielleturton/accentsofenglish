@@ -1,0 +1,144 @@
+---
+title: "Module Guide SEL3094/8513"
+author: "Dr Danielle Turton"
+date: "29/01/2019"
+output: pdf_document
+---
+
+# Overview
+
+This module explores the phonological, phonetic and sociolinguistic features of accents of English.  We'll be looking at the particular sounds which differentiate varieties of English, and how to identify linguistic and social factors which may play a role in shaping this variation.  Each week, we'll focus on a different aspect of English accents, including phonological processes and regional differences.  We'll be using quantitative methods to look at variation in particular accents, as well as more advanced phonetic tools available in linguistics.
+
+To succeed in this course you must already possess certain background knowledge and skills. The formal pre-requisite for this module is SEL1027, and as such students are expected to be familiar with the staples of phonology and phonetics.  You must be able to produce and recognise the IPA symbols for the most common sounds found in the languages of the world in order to embark on this course.
+
+## Contact
+Email: danielle.turton@newcastle.ac.uk
+
+Please allow at least 2 working days for a response.  Note that Friday is my dedicated research day and I am not on email.
+
+Office hours: Mon 3-4, Weds 11-1 (Percy 3.11A)
+
+Phone: 0191 208-8092
+
+
+## Attendance
+
+Attendance is monitored automatically through the scan devices installed in each teaching room.  I do not have access to these devices, so if you forget to scan in, there’s nothing I can do.  If you know that you will miss a class due to a religious holiday or an athletic event, please let me know in the first two weeks of the semester.
+
+## Course materials
+Lecture slides and lab instructions will be available on the [Blackboard](https://blackboard.ncl.ac.uk/) site for this module.  
+
+Readings are available from the schedule tab (or from the protected module folder)for some readings, you will need to be logged into your Newcastle account to gain access).
+
+## Useful stuff
+
+* Printable [IPA chart](https://www.internationalphoneticassociation.org/sites/default/files/IPA_Kiel_2015.pdf)
+* [Wells's Lexical Sets](https://en.wikipedia.org/wiki/Lexical_set)
+* Creating Spectrograms in Praat:[simple intro](https://allthingslinguistic.com/post/170512700349/creating-spectrograms-in-praat-the-briefest)
+
+
+# Schedule
+
+Lectures: Wednesday 9-11, [Percy G.05](https://goo.gl/maps/BhkKtTjDFYE2)
+
+Lab class: Mondays & Thursdays (check timetable for your session)
+N.B. check table for when to bring headphones to class (if in doubt, bring them!)
+
+Schedule is subject to change
+
+| Week |             Lecture            |   Readings and Deadlines  |
+|:----:|:------------------------------:|:-------------------------:|
+|   1  |          Introduction          |            None           |
+|   2  |             Vowels             |         [Baranowski & Turton (2018)](https://repository.upenn.edu/pwpl/vol24/iss2/2/)                  |
+|   3  |           Consonants           | [Docherty & Foulkes (2005)](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/Ea0-68cyqEZGjA48zzZ9P0IBIdhYlD8lWUMfBirug_EfbA?e=ZmdTOx) |
+|   4  |           Plasticity           |       [Sankoff (2004)](https://www.ling.upenn.edu/~gillian/PAPERS/Macaulay/MacaulayFINAL.t3.pdf) |
+|   5  |          Plasticity II         | [Evans & Iverson (2007)](https://pdfs.semanticscholar.org/b95c/543bae330e36c8e37904edd16785cba5291d.pdf) |
+|   6  |      Laterals and rhotics      |       [Lawson et al (2008)](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1060&context=pwpl) <br>[Foulkes (1997)](https://repository.upenn.edu/pwpl/vol4/iss1/16/0)      |
+|   7  | The mechanisms of sound change |       [McMahon (1994)](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EWU6Vvr2JVJMuNjUYf3h5_YB9VrpO3hOj_vTgp0xoLvFuw?e=HYbhXa)      |  
+|   8  | Morphosyntactic conditioning |      [Same as last week](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EWU6Vvr2JVJMuNjUYf3h5_YB9VrpO3hOj_vTgp0xoLvFuw?e=HYbhXa)    <br> Mid-semester paper due       |
+|   9  | Gradual or abrupt sound change  |          Labov (1994) [p. 421-451](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EdfWnSyiGopDtb52Rt4pZcQBpUgwLEG28uUvGY2JyGS4Ww?e=QRniWW), <br> [p. 541-543](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EVVfJwFYZOhJtFhKovpFqSUBJKhGZ3PO0LfNoAhhwZBK0A?e=w9brUf)          |
+|      |          EASTER BREAK          |                           |
+|  10  |      Accent discrimination     |     Lippi-Green (1997) Chapter 10    |
+|  11  |      No lecture     |     None    |
+|  12  |      No lecture     |     Final paper due    |
+
+# Labs
+
+---
+title: "Labs"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: paper
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Lab class: Check timetable for your session
+
+Lab classes are two hours, schedule is subject to change
+
+N.B. For Praat classes you will need your headphones!  Check table for when to bring headphones to class!  Note that some of the university computers have problems playing Praat through iphone headphones, so if you have others then you might want to bring them.
+
+| Session |             Lab            |   Readings  |
+|:----:|:------------------------------:|:-------------------------:|
+|   1  |          Excel 1: Intro, graphs and tables          |            None           |
+|   2  |          Praat 1: Intro, textgrids and vowels              |         @fa-headphones |
+|   3  |          ELAN, DARLA and the Praat Handcoder           | ? |
+|   4  |          Vowels and NORM           |       hi  |
+|   5  |          Praat 2: consonants         | hi |
+|   6  |          Excel 2: Chi-square, correlation, cross-tab, stats      |       hello      |
+
+
+```{r cars}
+summary(cars)
+```
+
+## Reading for lab classes
+Chapter 8 of [Ladefoged and Johnson (2015)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA51104441400002411&context=L&vid=NEWUI&search_scope=NotPC&tab=default_tab&lang=en_US) is the recommended intro to acoustic phonetics and is available to online via the library.  For more in-depth reading try [Johnson (2012)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2162877050002411&context=L&vid=NEWUI&search_scope=NotPC&isFrbr=true&tab=default_tab&lang=en_US) and [Ladefoged (1996)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2158870380002411&context=L&vid=NEWUI&search_scope=NotPC&isFrbr=true&tab=default_tab&lang=en_US).  For a Sociophonetics slant try [Thomas (2011)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2162924950002411&context=L&vid=NEWUI&search_scope=NotPC&tab=default_tab&lang=en_US).
+
+
+## R classes
+Recommended for postgrads - module HSS8005 weeks 8 and 9, Tues and Thurs 2-4pm
+
+
+# Assessment
+The assessment on this module will take the form of research projects, where you will collect data as a group (many hands make light work etc.) but complete the analysis and write the paper alone.  We will take advantage of living in one of the most interesting and instantly recognisable accent areas of the country by having a strong focus on Tyneside English for the research projects.
+
+
+Your mark on this module will primarily be determined by the following:
+
+1. A mid-semester report of 1000 words based on data collection and methodology, worth 25%. This is due on 21st March 2019 (Thursday of week 8) by 3pm (NOTE NEW HAND-IN TIME!). th
+2. An end of semester 3000 word research paper worth 75%. This is due on 15 May 2019 (Thursday of Week 12) at 3pm (NOTE HAND-IN TIME!). You have the option to work in pairs for this assignment, in which case the word limit will be 4,500.
+
+## Handing in your assignments
+This module is electronic submission only.  You do not need to submit a paper copy of your assessment. Instead, you will use the TurnItIn submission box on [Blackboard](https://blackboard.ncl.ac.uk/).  TurnItIn opens a week prior to the hand-in date.
+
+## Mid-module 
+
+Details TBA
+
+25% report
+
+21st March 3pm
+
+1000 words max 
+
+# Reading
+The compulsory reading (as found on the schedule) should be done before class.  The recommended follow-up reading is non-compulsory and is to supplement your learning.  I recommend completing at least one follow-up reading per week.
+
+
+---
+nocite: | 
+  @*
+---
+
+
+
+

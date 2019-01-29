@@ -17,18 +17,22 @@ knitr::opts_chunk$set(echo = TRUE)
 Lectures: Wednesday 9-11, [Percy G.05](https://goo.gl/maps/BhkKtTjDFYE2)
 
 Lab class: Mondays & Thursdays (check timetable for your session)
-N.B. check table at end of guide for when to bring headphones to class
+N.B. check table for when to bring headphones to class (if in doubt, bring them!)
+
+Schedule is subject to change
 
 | Week |             Lecture            |   Readings and Deadlines  |
 |:----:|:------------------------------:|:-------------------------:|
 |   1  |          Introduction          |            None           |
 |   2  |             Vowels             |         [Baranowski & Turton (2018)](https://repository.upenn.edu/pwpl/vol24/iss2/2/)                  |
 |   3  |           Consonants           | [Docherty & Foulkes (2005)](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/Ea0-68cyqEZGjA48zzZ9P0IBIdhYlD8lWUMfBirug_EfbA?e=ZmdTOx) |
-|   4  |           Plasticity           |       [Sankoff (2004)](https://www.ling.upenn.edu/~gillian/PAPERS/Macaulay/MacaulayFINAL.t3.pdf) <br>   other ref  |
+|   4  |           Plasticity           |       [Sankoff (2004)](https://www.ling.upenn.edu/~gillian/PAPERS/Macaulay/MacaulayFINAL.t3.pdf) |
 |   5  |          Plasticity II         | [Evans & Iverson (2007)](https://pdfs.semanticscholar.org/b95c/543bae330e36c8e37904edd16785cba5291d.pdf) |
 |   6  |      Laterals and rhotics      |       [Lawson et al (2008)](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1060&context=pwpl) <br>[Foulkes (1997)](https://repository.upenn.edu/pwpl/vol4/iss1/16/0)      |
-|   7  | The mechanisms of sound change |       [McMahon (1994)](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EWU6Vvr2JVJMuNjUYf3h5_YB9VrpO3hOj_vTgp0xoLvFuw?e=HYbhXa)      |
-|   8  | Gradual or abrupt sound change |        Labov (1994) [p. 421-451](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EdfWnSyiGopDtb52Rt4pZcQBpUgwLEG28uUvGY2JyGS4Ww?e=QRniWW), <br> [p. 541-543](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EVVfJwFYZOhJtFhKovpFqSUBJKhGZ3PO0LfNoAhhwZBK0A?e=w9brUf)       |
-|   9  |  Morphosyntactic conditioning  |           SVLR?           |
+|   7  | The mechanisms of sound change |       [McMahon (1994)](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EWU6Vvr2JVJMuNjUYf3h5_YB9VrpO3hOj_vTgp0xoLvFuw?e=HYbhXa)      |  
+|   8  | Morphosyntactic conditioning |      [Same as last week](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EWU6Vvr2JVJMuNjUYf3h5_YB9VrpO3hOj_vTgp0xoLvFuw?e=HYbhXa)    <br> Mid-semester paper due       |
+|   9  | Gradual or abrupt sound change  |          Labov (1994) [p. 421-451](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EdfWnSyiGopDtb52Rt4pZcQBpUgwLEG28uUvGY2JyGS4Ww?e=QRniWW), <br> [p. 541-543](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EVVfJwFYZOhJtFhKovpFqSUBJKhGZ3PO0LfNoAhhwZBK0A?e=w9brUf)          |
 |      |          EASTER BREAK          |                           |
-|  10  |      Accent discrimination     |     Lippi-Green (1997)    |
+|  10  |      Accent discrimination     |     Lippi-Green (1997) Chapter 10    |
+|  11  |      No lecture     |     None    |
+|  12  |      No lecture     |     Final paper due    |

@@ -9,13 +9,23 @@ output:
 ---
 
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-This module is electronic submission only.  You do not need to submit a paper copy of your assessment. Instead, you will use the TurnItIn submission box on Blackboard.  TurnItIn opens a week prior to the hand-in date.
+The assessment on this module will take the form of research projects, where you will collect data as a group (many hands make light work etc.) but complete the analysis and write the paper alone.  We will take advantage of living in one of the most interesting and instantly recognisable accent areas of the country by having a strong focus on Tyneside English for the research projects.
+
+
+Your mark on this module will primarily be determined by the following:
+
+1. A mid-semester report of 1000 words based on data collection and methodology, worth 25%. This is due on 21st March 2019 (Thursday of week 8) by 3pm (NOTE NEW HAND-IN TIME!). th
+2. An end of semester 3000 word research paper worth 75%. This is due on 15 May 2019 (Thursday of Week 12) at 3pm (NOTE HAND-IN TIME!). You have the option to work in pairs for this assignment, in which case the word limit will be 4,500.
+
+## Handing in your assignments
+This module is electronic submission only.  You do not need to submit a paper copy of your assessment. Instead, you will use the TurnItIn submission box on [Blackboard](https://blackboard.ncl.ac.uk/).  TurnItIn opens a week prior to the hand-in date.
 
 ## Mid-module 
+
+Details TBA
 
 25% report
 
@@ -26,7 +36,9 @@ This module is electronic submission only.  You do not need to submit a paper co
 
 ## End of semester 
 
-75%  research project - details TBA
+Details TBA
+
+75%  research project
 
 15th May at 3pm
 
