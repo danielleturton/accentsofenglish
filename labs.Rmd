@@ -31,10 +31,6 @@ N.B. For Praat classes you will need your headphones `r icon::fa("headphones")`!
 |   6  |          Excel 2: Chi-square, correlation, cross-tab, stats      |         |
 
 
-```{r cars}
-summary(cars)
-```
-
 ## Reading for lab classes
 Chapter 8 of [Ladefoged and Johnson (2015)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA51104441400002411&context=L&vid=NEWUI&search_scope=NotPC&tab=default_tab&lang=en_US) is the recommended intro to acoustic phonetics and is available to online via the library.  For more in-depth reading try [Johnson (2012)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2162877050002411&context=L&vid=NEWUI&search_scope=NotPC&isFrbr=true&tab=default_tab&lang=en_US) and [Ladefoged (1996)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2158870380002411&context=L&vid=NEWUI&search_scope=NotPC&isFrbr=true&tab=default_tab&lang=en_US).  For a Sociophonetics slant try [Thomas (2011)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2162924950002411&context=L&vid=NEWUI&search_scope=NotPC&tab=default_tab&lang=en_US).
 

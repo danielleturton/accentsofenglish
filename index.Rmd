@@ -38,11 +38,8 @@ Phone: 0191 208-8092
 
 Attendance is monitored automatically through the scan devices installed in each teaching room.  I do not have access to these devices, so if you forget to scan in, there’s nothing I can do.  If you know that you will miss a class due to a religious holiday or an athletic event, please let me know in the first two weeks of the semester.
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+<img src="img/tglotfreq.png" style="width:75%; border:5px solid; margin-right: 20px" align="center">
 
 
 ## Course materials

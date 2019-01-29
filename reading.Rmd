@@ -3,20 +3,68 @@ title: "Reading"
 output: 
   html_document:
     toc: true
-    toc_depth: 2
+    toc_depth: 4
     toc_float: true
     theme: paper
 bibliography: sel3094.bib
 ---
 
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-The compulsory reading (as found on the schedule) should be done before class.  The recommended follow-up reading is non-compulsory and is to supplement your learning.  I recommend completing at least one follow-up reading per week.
+The compulsory reading (as found on the schedule) should be done before class.  The recommended follow-up reading below is non-compulsory and is to supplement your learning.  I recommend completing at least one follow-up reading per week.  Links are provided where possible, but using [Google Scholar](https://scholar.google.co.uk/) can help you locate readings which are not linked to here.  Books can be found in the [library](https://www.ncl.ac.uk/library/).
 
+## General Reading
+Accents of English - @Wells1982
+
+Labov I & II: @Labov1994, @Labov2001
+
+## Acoustic phonetics
+@Ladefoged2015, @Ladefoged1996, @Johnson2012, @Thomas2011
+
+## Vowels
+GOOSE and GOAT in Manchester - @Baranowski2017
+
+GOAT and FACE in Tyneside - @watt2002
+
+## Consonants
+
+Tyneside glottalisation - @Docherty2005, @Docherty1999
+
+TD-deletion - @Guy1991a, @Guy1991.  In British English - @Tagliamonte2005, @Baranowski2015c
+
+## Laterals and rhotics
+
+Loss of Scottish rhoticity - @Lawson2008 [link](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1060&context=pwpl)
+
+Linking /r/ in Tyneside - @Foulkes1997 [link](https://repository.upenn.edu/pwpl/vol4/iss1/16/0)
+
+Rhoticty in the South West - @Piercy2012
+
+Word-final prevocalic consonants - @RBO2007e 
+
+Ultrasound /l/ in dialects of English - @Turton2014b
+
+## Plasticity
+
+Seven up vowels - @Sankoff2004
+
+Philly children learning aæ-tensing pattern - @Payne1980 [link]()
+
+Canadians moving to UK - @Chambers1992
+
+Northerners moving to London - Evans and Iverson (2007)
+
+## Sound change
+*Lectures 1 and 7-9*
+
+@Mcmahon1994
+
+@Labov1994 - [p. 421-451](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EdfWnSyiGopDtb52Rt4pZcQBpUgwLEG28uUvGY2JyGS4Ww?e=QRniWW), [p. 541-543](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EVVfJwFYZOhJtFhKovpFqSUBJKhGZ3PO0LfNoAhhwZBK0A?e=w9brUf)      
+
+# References
 
 ---
 nocite: | 

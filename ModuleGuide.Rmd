@@ -5,11 +5,15 @@ date: "29/01/2019"
 output: pdf_document
 ---
 
+Students are advised to consult the website for this course at: https://danielleturton.github.io/accentsofenglish
+
+*This document is subject to change and the most up to date version of the module can be found online.*
+
 # Overview
 
 This module explores the phonological, phonetic and sociolinguistic features of accents of English.  We'll be looking at the particular sounds which differentiate varieties of English, and how to identify linguistic and social factors which may play a role in shaping this variation.  Each week, we'll focus on a different aspect of English accents, including phonological processes and regional differences.  We'll be using quantitative methods to look at variation in particular accents, as well as more advanced phonetic tools available in linguistics.
 
-To succeed in this course you must already possess certain background knowledge and skills. The formal pre-requisite for this module is SEL1027, and as such students are expected to be familiar with the staples of phonology and phonetics.  You must be able to produce and recognise the IPA symbols for the most common sounds found in the languages of the world in order to embark on this course.
+To succeed in this course you must already possess certain background knowledge and skills. The formal pre-requisite for this module is SEL1027/SEL8117, and as such students are expected to be familiar with the staples of phonology and phonetics.  You must be able to produce and recognise the IPA symbols for the most common sounds found in the languages of the world in order to embark on this course.
 
 ## Contact
 Email: danielle.turton@newcastle.ac.uk
@@ -30,8 +34,8 @@ Lecture slides and lab instructions will be available on the [Blackboard](https:
 
 Readings are available from the schedule tab (or from the protected module folder)for some readings, you will need to be logged into your Newcastle account to gain access).
 
-## Useful stuff
-
+## Useful links
+*clickable in pdf version*
 * Printable [IPA chart](https://www.internationalphoneticassociation.org/sites/default/files/IPA_Kiel_2015.pdf)
 * [Wells's Lexical Sets](https://en.wikipedia.org/wiki/Lexical_set)
 * Creating Spectrograms in Praat:[simple intro](https://allthingslinguistic.com/post/170512700349/creating-spectrograms-in-praat-the-briefest)
@@ -64,41 +68,22 @@ Schedule is subject to change
 
 # Labs
 
----
-title: "Labs"
-output: 
-  html_document:
-    toc: true
-    toc_depth: 2
-    toc_float: true
-    theme: paper
----
-
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Lab class: Check timetable for your session
 
 Lab classes are two hours, schedule is subject to change
 
 N.B. For Praat classes you will need your headphones!  Check table for when to bring headphones to class!  Note that some of the university computers have problems playing Praat through iphone headphones, so if you have others then you might want to bring them.
 
-| Session |             Lab            |   Readings  |
+| Session |             Lab            |   Info  |
 |:----:|:------------------------------:|:-------------------------:|
-|   1  |          Excel 1: Intro, graphs and tables          |            None           |
-|   2  |          Praat 1: Intro, textgrids and vowels              |         @fa-headphones |
-|   3  |          ELAN, DARLA and the Praat Handcoder           | ? |
-|   4  |          Vowels and NORM           |       hi  |
-|   5  |          Praat 2: consonants         | hi |
-|   6  |          Excel 2: Chi-square, correlation, cross-tab, stats      |       hello      |
+|   1  |          Excel 1: Intro, graphs and tables          |                       |
+|   2  |          Praat 1: Intro, textgrids and vowels              | `r icon::fa("headphones")`   |
+|   3  |          ELAN, DARLA and the Praat Handcoder           | `r icon::fa("headphones")` |
+|   4  |          Vowels and NORM           |         |
+|   5  |          Praat 2: consonants         | `r icon::fa("headphones")` |
+|   6  |          Excel 2: Chi-square, correlation, cross-tab, stats      |         |
 
 
-```{r cars}
-summary(cars)
-```
 
 ## Reading for lab classes
 Chapter 8 of [Ladefoged and Johnson (2015)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA51104441400002411&context=L&vid=NEWUI&search_scope=NotPC&tab=default_tab&lang=en_US) is the recommended intro to acoustic phonetics and is available to online via the library.  For more in-depth reading try [Johnson (2012)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2162877050002411&context=L&vid=NEWUI&search_scope=NotPC&isFrbr=true&tab=default_tab&lang=en_US) and [Ladefoged (1996)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2158870380002411&context=L&vid=NEWUI&search_scope=NotPC&isFrbr=true&tab=default_tab&lang=en_US).  For a Sociophonetics slant try [Thomas (2011)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2162924950002411&context=L&vid=NEWUI&search_scope=NotPC&tab=default_tab&lang=en_US).
@@ -120,18 +105,9 @@ Your mark on this module will primarily be determined by the following:
 ## Handing in your assignments
 This module is electronic submission only.  You do not need to submit a paper copy of your assessment. Instead, you will use the TurnItIn submission box on [Blackboard](https://blackboard.ncl.ac.uk/).  TurnItIn opens a week prior to the hand-in date.
 
-## Mid-module 
-
-Details TBA
-
-25% report
-
-21st March 3pm
-
-1000 words max 
 
 # Reading
-The compulsory reading (as found on the schedule) should be done before class.  The recommended follow-up reading is non-compulsory and is to supplement your learning.  I recommend completing at least one follow-up reading per week.
+The compulsory reading (as found on the schedule) should be done before class.  The recommended follow-up reading is non-compulsory and is to supplement your learning (see course website).  I recommend completing at least one follow-up reading per week.
 
 
 ---
