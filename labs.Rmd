@@ -21,14 +21,14 @@ Lab classes are two hours, schedule is subject to change
 
 N.B. For Praat classes you will need your headphones `r icon::fa("headphones")`!  Check table for when to bring headphones to class!  Note that some of the university computers have problems playing Praat through iphone headphones, so if you have others then you might want to bring them.
 
-| Session |             Lab            |   Info  |
-|:----:|:------------------------------:|:-------------------------:|
-|   1  |          Excel 1: Intro, graphs and tables          |                       |
-|   2  |          Praat 1: Intro, textgrids and vowels              | `r icon::fa("headphones")`   |
-|   3  |          ELAN, DARLA and the Praat Handcoder           | `r icon::fa("headphones")` |
-|   4  |          Vowels and NORM           |         |
-|   5  |          Praat 2: consonants         | `r icon::fa("headphones")` |
-|   6  |          Excel 2: Chi-square, correlation, cross-tab, stats      |         |
+| Session | Week |            Lab            |   Info  |
+|:----:|:---:|:------------------------------:|:-------------------------:|
+|   1  |     2 |     Excel 1: Intro, graphs and tables          |                       |
+|   2  |    3|      Praat 1: Intro, textgrids and vowels              | `r icon::fa("headphones")`   |
+|   3  |     4|     ELAN, DARLA and the Praat Handcoder           | `r icon::fa("headphones")` |
+|   4  |    5|          Praat 2: consonants       |   `r icon::fa("headphones")`      |
+|   5  |     8   |   Vowels and NORM        |  |
+|   6  |     9   |  Excel 2: Chi-square, correlation, cross-tab, stats      |         |
 
 
 ## Reading for lab classes
