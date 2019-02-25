@@ -34,8 +34,20 @@ N.B. For Praat classes you will need your headphones `r icon::fa("headphones")`!
 ## Reading for lab classes
 Chapter 8 of [Ladefoged and Johnson (2015)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA51104441400002411&context=L&vid=NEWUI&search_scope=NotPC&tab=default_tab&lang=en_US) is the recommended intro to acoustic phonetics and is available to online via the library.  For more in-depth reading try [Johnson (2012)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2162877050002411&context=L&vid=NEWUI&search_scope=NotPC&isFrbr=true&tab=default_tab&lang=en_US) and [Ladefoged (1996)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2158870380002411&context=L&vid=NEWUI&search_scope=NotPC&isFrbr=true&tab=default_tab&lang=en_US).  For a Sociophonetics slant try [Thomas (2011)](https://libsearch.ncl.ac.uk/primo-explore/fulldisplay?docid=NCL_ALMA2162924950002411&context=L&vid=NEWUI&search_scope=NotPC&tab=default_tab&lang=en_US).
 
+### Acoustic Phonetics
+Alongside the readings listed above, there are many useful resources for learning more about acoustic phonetics.
+
+This website on Waveforms is a great intro: https://pudding.cool/2018/02/waveforms/
+
+Jack Schaedler's website on the science behind acoustics: https://jackschaedler.github.io/circles-sines-signals/
+
 
 ## R classes
 Recommended for postgrads - module HSS8005 weeks 8 and 9, Tues and Thurs 2-4pm
+
+
+
+
+
 
 
