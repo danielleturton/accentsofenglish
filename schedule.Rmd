@@ -27,7 +27,7 @@ Schedule is subject to change
 |   2  |             Vowels             |         [Baranowski & Turton (2018)](https://repository.upenn.edu/pwpl/vol24/iss2/2/)                  |
 |   3  |           Consonants           | [Docherty & Foulkes (1999)](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_1037.pdf) |
 |   4  |           Plasticity           |       [Sankoff (2004)](https://www.ling.upenn.edu/~gillian/PAPERS/Macaulay/MacaulayFINAL.t3.pdf) |
-|   5  |      Laterals and rhotics      |       [Lawson et al (2008)](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1060&context=pwpl) <br>[Foulkes (1997)](https://repository.upenn.edu/pwpl/vol4/iss1/16/0)      |
+|   5  |      Laterals and rhotics      |       [Lawson et al (2008)](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1060&context=pwpl) <br>[Foulkes (1997)](https://repository.upenn.edu/pwpl/vol4/iss1/16/)      |
 |   6  |          Plasticity II         | [Evans & Iverson (2007)](https://pdfs.semanticscholar.org/b95c/543bae330e36c8e37904edd16785cba5291d.pdf) |
 |   7  | The mechanisms of sound change |       [McMahon (1994)](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EWU6Vvr2JVJMuNjUYf3h5_YB9VrpO3hOj_vTgp0xoLvFuw?e=HYbhXa)      |  
 |   8  | Morphosyntactic conditioning |      [Same as last week](https://newcastle-my.sharepoint.com/:b:/g/personal/ndmt5_newcastle_ac_uk/EWU6Vvr2JVJMuNjUYf3h5_YB9VrpO3hOj_vTgp0xoLvFuw?e=HYbhXa)    <br> Mid-semester paper due       |
