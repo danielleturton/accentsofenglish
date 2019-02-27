@@ -18,7 +18,7 @@ The assessment on this module will take the form of research projects, where you
 Your mark on this module will primarily be determined by the following:
 
 * Mid-module data collection report: 25%, due 21st March 2019 at 3pm. 1000 words. This should be connected to the final assignment.
-* Final research project/assignment: 75%, due 15th May 2019 at 3pm. 3000 words. You have the option to work in pairs for this assignment, in which case the word limit will be 4,500.
+* Final research project/assignment: 75%, due 16th May 2019 at 3pm. 3000 words. You have the option to work in pairs for this assignment, in which case the word limit will be 4,500.
 
 Please choose from one of the research projects and assignments below.  Note that the lab projects involve data collection with a member of staff and your classmates, and thus require forward planning.  If you intend to complete one of these projects, register your interest by Sunday 3rd March at the following link:
 https://goo.gl/forms/mRTag557d8si9Zum2
@@ -68,3 +68,12 @@ In this project, you will select a public figure and analyse their speech at two
 Record a representative number of speakers from a speech community of your choice to provide an acoustic description in the style of [Illustrations of the IPA](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/illustrations-of-the-ipa).  Alternatively, provide a more in-depth analysis of a particular variable with reference to relevant independent variables such as morphological class, adjacent sounds, or external factors such as age and social class.  Present your quantitative findings using the skills from class.
 
 *Mid-module requirements*: Record speaker(s), transcribe in DARLA or Praat if appropriate, and prepare data for analysis stage.
+
+
+## /l/ in Levantine Arabic: *PG only*
+Using acoustic data from speakers of Levantine Arabic (collected by Khattab and Turton), perform a quantitative analysis of /l/s in emphatic vs. plain contexts.
+
+*Mid-module requirements*: Check, correct and segment /l/s and prepare data for analysis stage.
+
+## Individual research project: *PG only*
+Design a project of your choosing, in agreement with the module leader.  
