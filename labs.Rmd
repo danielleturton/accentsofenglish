@@ -27,7 +27,7 @@ N.B. For Praat classes you will need your headphones `r icon::fa("headphones")`!
 |   2  |    3|      Praat 1: Intro, textgrids and vowels              | `r icon::fa("headphones")`   |
 |   3  |     4|     ELAN, DARLA and the Praat Handcoder           | `r icon::fa("headphones")` |
 |   4  |    5|          Praat 2: consonants       |   `r icon::fa("headphones")`      |
-|   5  |     8   |   Vowels and NORM        |  |
+|   5  |     6   |   Vowels and NORM        |  |
 |   6  |     9   |  Excel 2: Chi-square, correlation, cross-tab, stats      |         |
 
 
