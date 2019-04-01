@@ -27,35 +27,45 @@ https://goo.gl/forms/mRTag557d8si9Zum2
 ### Handing in your assignments
 This module is electronic submission only.  You do not need to submit a paper copy of your assessment. Instead, you will use the TurnItIn submission box on [Blackboard](https://blackboard.ncl.ac.uk/).  TurnItIn opens a week prior to the hand-in date.
 
-## Selecting a project
+### Selecting a project
 Please choose from one of the projects below and register your selection by Sunday 3rd March at the following link:
 https://goo.gl/forms/mRTag557d8si9Zum2
 
 Note that the lab projects require a potentially bigger commitment from you initially, in terms of turning up at the phonetics lab to record your recruited speakers.  These projects are arguably more ambitious, but are meant to give you a realistic experience of what it is like to conduct high quality research at a university.  Thus, you will be working alongside staff and PhD students in the recruitment and recording process.  Although this assessment is 100% marked on your individual contribution, you will be working as a team (with the assigned project manager) to design the experiment and collect data in the lab projects.
 
-## Tyneside voiceless stops: Lab project 1
+*SEE THE [READING](reading.html) TAB FOR FULL REFERENCES*
+
+## Tyneside voiceless stops
 **Project Lead: Danielle Turton**
 
 In this project, you will recruit Tyneside speakers to take part in an ultrasound tongue imaging study, which simultaneously monitors acoustics and articulation of voiceless stops.  For your write-up, you will analyse speakers’ consonants either by auditory and acoustic analysis, or (advanced!) by ultrasound tongue imaging.
 
+
 *Mid-module requirements*: Recruit Tyneside speakers, make recordings in lab, transcribe in DARLA, and complete write-up in line with mid-module instructions.
 
 
-## Tyneside vowel perception and production: Lab project 2
+<BR>
+
+## Tyneside vowel perception and production
 **Project Lead: Jasmine Warburton**
 
 What is the phonemic and phonetic status of pairs of vowels in Tyneside English today?  In this project, you will recruit local speakers to take part in a reading task, followed by a test of whether two words sound the same or different.  
 
 *Mid-module requirements*: Recruit Tyneside speakers, make recordings in lab, transcribe in DARLA, and complete write-up in line with mid-module instructions.
 
-*Jasmine's recommended reading*: [click here](https://newcastle-my.sharepoint.com/:u:/g/personal/ndmt5_newcastle_ac_uk/EVe2UL3doB9Gs-fP3_9uTEwBI6H3GiL1aX_Yjk4uOZqLgg?e=BwKvbQ)
+*Jasmine's recommended reading on perception*: [click here](https://newcastle-my.sharepoint.com/:u:/g/personal/ndmt5_newcastle_ac_uk/EVe2UL3doB9Gs-fP3_9uTEwBI6H3GiL1aX_Yjk4uOZqLgg?e=BwKvbQ)
 
-## Sociolinguistic masking noise: Lab project 3
+Additional suggestions for reading include anything on mergers and distinctions, or Tyneside vowels.
+
+## Sociolinguistic masking noise
 **Project Lead: Sophie Meekings**
 
 Do people speak the same when they can’t hear the sound of their own voice?  In this project, you will recruit participants from the Tyneside area for a sociolinguistic masking noise map task.  You will analyse the results, testing whether speakers use more or less non-standard pronunciations when they cannot hear themselves speak.
 
 *Mid-module requirements*: Recruit Tyneside speakers, make recordings in lab, transcribe in DARLA, and complete write-up in line with mid-module instructions.
+
+Aside from the [Mahl(1972)](https://books.google.co.uk/books?hl=en&lr=&id=bfdFBQAAQBAJ&oi=fnd&pg=PA211&dq=mahl+1972%5D&ots=Skxq9p2aEi&sig=ojKmT-zLbqBiPzxecr0yEcQg03U#v=onepage&q&f=false) description given by Sophie in the lecture, your reading should mainly focus on your specific variable of choice.  This is a little-studied phenomenon so anything relevant you can find will be of interest, but don't expect to find much out there.
+
 
 ## Language change across the lifespan
 **Individual project**
@@ -64,6 +74,8 @@ In this project, you will select a public figure and analyse their speech at two
 
 *Mid-module requirements*: Decide on speaker, source and download appropriate sound files, transcribe in DARLA.
 
+Your recommended reading with include your specific variable, and also studies of lifespan change and plasticity.s
+
 ## Illustrations of the IPA
 **Individual project**
 
@@ -71,11 +83,6 @@ Record a representative number of speakers from a speech community of your choic
 
 *Mid-module requirements*: Record speaker(s), transcribe in DARLA or Praat if appropriate, and prepare data for analysis stage.
 
-
-## /l/ in Levantine Arabic: *PG only*
-Using acoustic data from speakers of Levantine Arabic (collected by Khattab and Turton), perform a quantitative analysis of /l/s in emphatic vs. plain contexts.
-
-*Mid-module requirements*: Check, correct and segment /l/s and prepare data for analysis stage.
 
 ## Individual research project: *PG only*
 Design a project of your choosing, in agreement with the module leader.  

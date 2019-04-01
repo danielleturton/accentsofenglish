@@ -10,9 +10,7 @@ bibliography: sel3094.bib
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 The compulsory reading (as found on the schedule) should be done before class.  There are lots more readings in addition to those found below mentioned in the lecture slides which you are encouraged to follow-up on.  Links are provided where possible, but using [Google Scholar](https://scholar.google.co.uk/) can help you locate readings which are not linked to here.  Books can be found in the [library](https://www.ncl.ac.uk/library/) 
 
